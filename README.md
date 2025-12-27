@@ -1,4 +1,4 @@
-*🧹 Strings-Remove Nth Index Character from a String*
+# *🧹 Strings-Remove Nth Index Character from a String*
 
 _AIM:_
 To write a Python program that accepts a string and removes the character at a specified index.
@@ -25,7 +25,7 @@ _OUTPUT:_
 _RESULT:_
 Thus , the program has been executed succesfully.
 
-*Strings-Palindrome Check in Python (Without Built-in Functions)*
+# *Strings-Palindrome Check in Python (Without Built-in Functions)*
 
 _AIM:_
 To write a Python program to check whether the string "google" is a palindrome or not, without using built-in palindrome checking functions.
@@ -50,7 +50,7 @@ _OUTPUT:_
 _RESULT:_
 Thus , the program has been executed succesfully.
 
-*Regex in Python: Filter Words Without the Letter 'e'*
+# *Regex in Python: Filter Words Without the Letter 'e'*
 
 _AIM:_
 To write a Python program that filters out and returns all elements from a list that do not contain the letter 'e', using regular expressions (regex).
@@ -77,7 +77,7 @@ _OUTPUT:_
 _RESULT:_
 Thus , the program has been executed succesfully.
 
-*List Operations in Python: Sum of List Items*
+# *List Operations in Python: Sum of List Items*
 
 _AIM:_
 To write a Python program that calculates the sum of all elements in a list.
@@ -99,7 +99,7 @@ _OUTPUT:_
 _RESULT:_
 Thus , the program has been executed succesfully.
 
-*Tuple in Python: Check Element Existence*
+# *Tuple in Python: Check Element Existence*
 
 _AIM:_
 To write a Python program that checks if the element 'n' and the element 8 exist within a given tuple.
